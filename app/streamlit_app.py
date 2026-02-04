@@ -4,13 +4,14 @@ import joblib
 import pandas as pd
 
 # Load model
-model = joblib.load("iris_model.pkl")
+model = joblib.load("app/iris_model.pkl")
+
 
 # Image files
 flower_images = {
-    0: "images/iris_setosa.jpg",
-    1: "images/iris_versicolor.jpg",
-    2: "images/iris_virginica.jpg"
+    0: "app/images/iris_setosa.jpg",
+    1: "app/images/iris_versicolor.jpg",
+    2: "app/images/iris_virginica.jpg"
 }
 
 flower_names = ["Setosa", "Versicolor", "Virginica"]
