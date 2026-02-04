@@ -20,13 +20,17 @@ flower_names = ["Setosa", "Versicolor", "Virginica"]
 # -------------------- HEADER --------------------
 st.markdown(
     """
-    <h1 style='text-align: center; color: white;'>Iris Flower Classification App</h1>
-    <p style='text-align: center; color: #DDDDDD; font-size: 18px;'>
-        Predict the Iris flower type using Sepal and Petal measurements.
-    </p>
+    <div style='background-color:#0d6efd; padding:20px; border-radius:10px;'>
+        <h1 style='text-align: center; color: white;'>Iris Flower Classification App</h1>
+        <p style='text-align: center; color: #f8f9fa; font-size: 18px;'>
+            Predict the Iris flower type using Sepal and Petal measurements.
+        </p>
+    </div>
+    <br>
     """,
     unsafe_allow_html=True
 )
+
 
 
 # -------------------- INPUT SECTION --------------------
