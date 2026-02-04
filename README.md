@@ -1,6 +1,10 @@
 # 🌸 Iris Flower Classification – End-to-End Machine Learning Project  
 ### Built by **Prasanna Kumar**
 
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prasanna-vaddeman-ml-project-iris-classification.streamlit.app/)
+
 [![IBM Data Science Professional Certificate](https://images.credly.com/size/340x340/images/5ae9f0ce-ee8e-4c8b-8b46-5cd596b8d8cf/image.png)](https://www.credly.com/badges/960adb8c-c3ed-4214-8ab4-9528c93bef21/public_url)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
